@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"randomJapanLocationer","l":"JapanPrefectureMaker"},{"l":"すべてのクラス","url":"allclasses-index.html"}]

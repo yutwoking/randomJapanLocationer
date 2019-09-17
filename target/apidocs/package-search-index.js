@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"randomJapanLocationer"},{"l":"すべてのパッケージ","url":"allpackages-index.html"}]
